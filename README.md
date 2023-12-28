@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">I am a highschool student uploading projects from school and on my own</h3>
+<h1 align="center">Hi 👋, I'm Brandon S</h1>
+<h3 align="center">I am a high school student uploading projects from school and on my own</h3>
+
+- 🔭 I’m currently working on **a tic-tac-toe ai**
 
 - 🌱 I’m currently learning **Minimax ai**
+
+- ⚡ I am currently trying to get into programming competitions **I am attending my first competition in February- Lockheed Martin Code Quest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
