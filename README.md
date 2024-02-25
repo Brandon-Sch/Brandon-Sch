@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Minimax ai**
 
-- ⚡ I am currently trying to get into programming competitions **I am attending my first competition in February- Lockheed Martin Code Quest**
+- 🏆 I placed ***3rd*** in my category in the Lockheed Martin Code Quest in Stratford CT. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
