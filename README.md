@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon S</h1>
-<h3 align="center">I am a high school student uploading projects from school and on my own</h3>
+<h3 align="center">I am a college student uploading projects from school and on my own</h3>
 
-- 🔭 I’m currently working on **a Gym Progress Tracking Website**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 🏆 I placed ***3rd*** in my category in the Lockheed Martin Code Quest in Stratford CT. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
