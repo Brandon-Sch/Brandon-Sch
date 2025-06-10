@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon S</h1>
-<h3 align="center">I am a college student uploading projects from school and on my own</h3>
+<h3 align="center">I am a student at the University of Notre Dame uploading projects from school and on my own</h3>
 
 
 
